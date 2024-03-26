@@ -12,7 +12,7 @@ To get started with this project, you can follow these steps:
 #Clone the Repository: Use git clone to clone this repository to your local machine.
 bash
 Copy code
-git clone [https://github.com/GuptaGovindam/SALES-DASHBOARD.git]
+git clone [https://github.com/ashutosh0079/Sales_dashboard-POWERBI.git]
 
 #Install Power BI Desktop: If you haven't already, download and install Power BI Desktop.
 
